@@ -4,9 +4,10 @@
 }
 
 .bgimage {
-    background-image: url("ryan-plomp-jvoZ-Aux9aw-unsplash.jpg");
+    background-image: url("/Images/ryan-plomp-jvoZ-Aux9aw-unsplash.jpg");
     background-size: 700px;
     height: 700px;
+
 }
 li > a:hover {
     color: purple;
